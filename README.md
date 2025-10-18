@@ -47,7 +47,4 @@ We’ve got exercises for **each major ML concept**, including:
 
 ---
 
-## 🛠️ Recommended Tools
-- Python  
-- Jupyter Notebook / VS Code  
-- Libraries: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `xgboost`, `seaborn`
+
